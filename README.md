@@ -1,2 +1,2 @@
-# Data_Structures_DSA
+# Data_Structures_DS
 Study📚✏
